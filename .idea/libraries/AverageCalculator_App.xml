@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="AverageCalculator-App">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/AverageCalculator_App_jar/AverageCalculator-App.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
