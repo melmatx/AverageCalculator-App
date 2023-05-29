@@ -1,6 +1,8 @@
 # AverageCalculator-App
 Java Swing App to compute averages with subject presets.
 
+[Check out the Android version](https://github.com/melmatx/AverageCalculator)
+
 ## Screenshots
 
 ### Welcome Screen
